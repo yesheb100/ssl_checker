@@ -1,0 +1,1 @@
+File with domains is read and expired ones are outputted to one file while timeout and other server side errors are outputted to another file. 
